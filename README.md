@@ -1,3 +1,4 @@
+**Video Link: https://www.youtube.com/watch?v=LkgO6A2ACEs**
 # CS-470-Final-
 **Experiences and Strengths: Explain how this course will help you in reaching your professional goals.**
 Many companies now are looking for candiates with AWS experience. Learning how things work as a developer for AWS will help me in becoming a more qualified candidate
